@@ -43,7 +43,7 @@ Este proyecto implementa un sistema de gestión para una óptica, con funcionali
 ## 🛠️ Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/eze-ms/Optica-DB-Management
+   git clone https://github.com/eze-ms/S2.01-N1-E1.git
    ```
 2. Configura la base de datos:
     - Crea una base de datos llamada `optica_db`.
